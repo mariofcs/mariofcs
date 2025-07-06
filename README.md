@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Mario!
 
-<!--
-**mariofcs/mariofcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇨🇴🇪🇸 | Data Science | Big Data | Business Analytics
 
-Here are some ideas to get you started:
+💻 Python | SQL | RStudio | Tableau | Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Hadoop | Apache Spark
+
+🤖 Machine Learning | Deep Learning
+
+
+
+
+## 🚀 About Me
+Hola, actualmente estoy finalizando mi Máster en Data Science, Business Analytics y Machine Learning en la Universidad Complutense de Madrid.
+
+En este perfil quiero compartir algunos de los proyectos y códigos que desarrollo, aplicando las habilidades y conocimientos que estoy adquiriendo en el ámbito del análisis de datos, modelado predictivo y automatización con inteligencia artificial.
+
+Mi objetivo es documentar mi evolución profesional y aportar valor a la comunidad compartiendo soluciones, ideas y aprendizajes.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mariofcs&theme=merko)](https://git.io/streak-stats)
