@@ -1,4 +1,4 @@
-# Hey, I'm Mario! [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mario-felipe-caro-sarta-4b26511b7)
+# Hey, I'm Mario! [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-felipe-caro-sarta-4b26511b7)
 
 
 
